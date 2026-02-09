@@ -1,26 +1,25 @@
-# Numpy-Tasks
 # NumPy Practice Tasks 📊
 
 This repository contains my NumPy practice assignments as part of my learning journey in Python and Data Science.
 
-## Task 1: Electronics Sales Tracking
+## Completed Tasks
 
-This task demonstrates the use of NumPy arrays to track product sales data.
+### Task 1: Electronics Sales Tracking
 
-### Concepts Covered
+* Created 1D and 2D NumPy arrays
+* Explored shape and dimensions
 
-* Creating 1D and 2D NumPy arrays
-* Understanding shape and dimensions
-* Basic array operations
+### Task 2: Revenue Calculation & Scaling
+
+* Performed array broadcasting for revenue calculation
+* Applied square root transformation using NumPy
 
 ## Repository Structure
 
-Each task will be organized in its own folder as I continue adding more assignments.
+Each task is organized in its own notebook file:
 
-Example:
-
-Task1/
-└── Task1.ipynb
+* Task1.ipynb
+* Task2.ipynb
 
 ## Goal
 
